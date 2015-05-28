@@ -1,2 +1,5 @@
 # iBeaconExample
-iOS ranging &amp; monitoring beacons
+iOS ranging &amp; monitoring beacons.
+
+ForgetMeNot. 
+
